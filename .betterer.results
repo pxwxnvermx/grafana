@@ -992,8 +992,8 @@ exports[`better eslint`] = {
     "packages/grafana-data/src/utils/flotPairs.test.ts:396046928": [
       [53, 43, 15, "Do not use any type assertions.", "2931285723"]
     ],
-    "packages/grafana-data/src/utils/flotPairs.ts:1388341687": [
-      [24, 15, 3, "Unexpected any. Specify a different type.", "193409811"]
+    "packages/grafana-data/src/utils/flotPairs.ts:2187722882": [
+      [22, 15, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "packages/grafana-data/src/utils/labels.test.ts:713895701": [
       [76, 26, 30, "Do not use any type assertions.", "90966178"],
