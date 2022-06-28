@@ -1862,7 +1862,7 @@ exports[`better eslint`] = {
       [61, 18, 3, "Unexpected any. Specify a different type.", "193409811"],
       [64, 34, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "packages/grafana-ui/src/components/PanelChrome/index.ts:2338602328": [
+    "packages/grafana-ui/src/components/PanelChrome/index.ts:1416925976": [
       [22, 27, 39, "Do not use any type assertions.", "462300448"]
     ],
     "packages/grafana-ui/src/components/PanelContainer/PanelContainer.story.tsx:176625860": [
@@ -2144,7 +2144,7 @@ exports[`better eslint`] = {
     "packages/grafana-ui/src/components/Table/TableCellInspectModal.tsx:2190891910": [
       [9, 9, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "packages/grafana-ui/src/components/Table/types.ts:3687296109": [
+    "packages/grafana-ui/src/components/Table/types.ts:2318238989": [
       [11, 15, 3, "Unexpected any. Specify a different type.", "193409811"],
       [27, 50, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
@@ -2461,7 +2461,7 @@ exports[`better eslint`] = {
       [8, 54, 3, "Unexpected any. Specify a different type.", "193409811"],
       [8, 71, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
-    "packages/grafana-ui/src/types/forms.ts:3352347939": [
+    "packages/grafana-ui/src/types/forms.ts:3095124091": [
       [10, 31, 3, "Unexpected any. Specify a different type.", "193409811"]
     ],
     "packages/grafana-ui/src/types/jquery.d.ts:143083225": [
